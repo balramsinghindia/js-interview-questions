@@ -1,5 +1,14 @@
 # Frontend Interview questions
 
+## React JS
+- Props vs state
+- useState
+- useEffect, Dependency array in useEffect
+- JSX
+- Fragment
+- Prop type vs default prop
+
+
 ## JS beginner
 - Difference between == and ===
 - Data types in JS
@@ -42,14 +51,30 @@
 - Memorization
 - Constructor function
 - WeakSet vs WeakMap
+- Event loop
 
 
-# CSS
-## Layout
+## CSS
+- Tailwind CSS advantages
+- Bootstrap advantages
+
+
+### Layout
 - Grid
 - Flex
 - Float
 
-
 - inline vs inline-block vs block
 - class vs id
+- z index
+
+## SCSS
+- mixins
+- variables
+- Nesting
+
+## HTML
+- Doctype
+- br vs hr tag
+
+
