@@ -1,5 +1,8 @@
 # Frontend Interview questions
 
+## Follow below folks for latest Frontend concepts:
+https://www.linkedin.com/in/mgechev/recent-activity/shares/
+
 ## React JS
 - Props vs state
 - useState
