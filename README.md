@@ -55,6 +55,7 @@ https://www.linkedin.com/in/mgechev/recent-activity/shares/
 - Constructor function
 - WeakSet vs WeakMap
 - Event loop
+- Monads
 
 
 ## CSS
