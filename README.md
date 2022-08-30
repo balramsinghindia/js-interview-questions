@@ -86,6 +86,7 @@ https://www.linkedin.com/in/mgechev/recent-activity/shares/
 - Nesting
 
 ## HTML
+- image fetchPriority
 - Doctype
 - br vs hr tag
 
