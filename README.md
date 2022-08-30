@@ -44,6 +44,9 @@ https://www.linkedin.com/in/mgechev/recent-activity/shares/
 - Closure
 - Event bubbling and capturing
 - Event Delegation
+- Currying
+- Optional Chaining, Nullish Calescing operator
+- Web Scoket
 
 ## JS Advance
 - Generators
@@ -56,6 +59,11 @@ https://www.linkedin.com/in/mgechev/recent-activity/shares/
 - WeakSet vs WeakMap
 - Event loop
 - Monads
+- Mutation observer
+- Thortling and Debounce
+- Recursion
+- Event loop, Microtask and Macrotask
+
 
 
 ## CSS
