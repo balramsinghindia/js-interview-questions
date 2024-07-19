@@ -6,6 +6,7 @@
 - JSX
 - Fragment
 - Prop type vs default prop
+- What is disadvanatage of Prop-driling?
 
 
 ## JS beginner
@@ -65,13 +66,15 @@
 ## CSS
 - Tailwind CSS advantages
 - Bootstrap advantages
+- Shadcn
+- Why do we need Design system?
+- Design Tokens
 
 
 ### Layout
 - Grid
 - Flex
 - Float
-
 - inline vs inline-block vs block
 - class vs id
 - z index
@@ -87,3 +90,11 @@
 - br vs hr tag
 
 
+## Web Accessibility
+- Difference between visibility hidden and area-hidden
+- Real time accessibility for Date Picker, Calendar, Carousel etc
+
+
+# Process:
+- How would you balance work if your team has crosses deadline but couldn't deliver quality product?
+=> Answer is about balance in Prioprtisation, Avoiding risk, team management, better planning and raising concerns early etc.
